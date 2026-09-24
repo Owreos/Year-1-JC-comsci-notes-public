@@ -10,7 +10,9 @@ The following folder contains a .obsidian vault folder for quickly setting up a 
 *You can contact me through [Github](https://github.com/Owreos) or any other channel you may have me on.*
 
 ---
+
 © 2026 Owreos. All rights reserved.
 
 These notes are provided for personal educational use. You may download and modify a copy for your own use, but please request permission before redistributing or republishing these notes.
+
 ---
