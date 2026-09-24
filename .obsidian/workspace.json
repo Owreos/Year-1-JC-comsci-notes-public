@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "a3cea9b3ce84b65b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b476c201f0ca115f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c031cc5db4f68bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network security/1.0 Encryption and Signature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 Encryption and Signature"
+            }
+          },
+          {
+            "id": "1814750b14fe72e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network security/1.0 Encryption and Signature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.0 Encryption and Signature"
+            }
+          },
+          {
+            "id": "9c93134eff8bd743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network security/2.0 Malware and Server Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.0 Malware and Server Security"
+            }
+          },
+          {
+            "id": "cb2a0c99e2b67270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networks/2.0 TCP-IP Suite and Internet Protocol.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.0 TCP-IP Suite and Internet Protocol"
+            }
+          },
+          {
+            "id": "68efca6cd40eae5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networks/3.0 TCP-IP Suite and Transport Layer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.0 TCP-IP Suite and Transport Layer"
+            }
+          },
+          {
+            "id": "c23f33d8cea437e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networks/4.0 Sockets Server and Clients.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.0 Sockets Server and Clients"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13f2c162b6fab941",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6525b70d29609e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd1c11541a9d38c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "48cd76ac81439179",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "70260048aa06adf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b341bc687a5077e",
+    "type": "split",
+    "children": [
+      {
+        "id": "37f3d46839343659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a39b462a05be08f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-12 20.12.10.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8acae3e65206a034",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-09-12 20.12.10.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1df5872723b30f60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "39df033791f46434",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3486c0a45c844c20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networks/4.0 Sockets Server and Clients.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "945d0e225a790fd1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw-sidepanel",
+              "state": {},
+              "icon": "excalidraw-icon",
+              "title": "Excalidraw Sidepanel"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "c23f33d8cea437e5",
+  "lastOpenFiles": [
+    "Networks/PDFs/4.0 Sockets Server and Clients.pdf",
+    "Networks/3.0 TCP-IP Suite and Transport Layer.md",
+    "Networks/PDFs/3.0 TCP-IP Suite and Transport Layer.pdf",
+    "Networks/2.0 TCP-IP Suite and Internet Protocol.md",
+    "Networks/PDFs/2.0 TCP-IP Suite and Internet Protocol.pdf",
+    "Networks/4.0 Sockets Server and Clients.md",
+    "Networks/1.0 Fundamentals of computing networks.md",
+    "Networks/PDFs/1.0 Fundamentals of computing networks.pdf",
+    "Prog & Diagrams/Untitled.md",
+    "Prog & Diagrams/Pseudo-code Guide.md",
+    "PDPA/PDPA.md",
+    "Excalidraw/Drawing 2026-09-23 09.44.37.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 13.39.05.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 13.14.35.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 20.32.54.excalidraw.md",
+    "Prog & Diagrams/attachments/Iterator.png",
+    "Prog & Diagrams.zip",
+    "Prog & Diagrams/attachments",
+    "Network security/1.0 Encryption and Signature.md",
+    "Network security/2.0 Malware and Server Security.md",
+    "Network security.zip",
+    "Network security/PDFs/2.0 Malware and Server Security.pdf",
+    "Network security/PDFs",
+    "Network security/attachments/Pasted image 20260920102123.png",
+    "Network security/attachments",
+    "Networks/attachments/Pasted image 20260912204900.png",
+    "Networks/attachments/Pasted image 20260912193524.png",
+    "Excalidraw/Drawing 2026-09-20 09.34.38.excalidraw.md",
+    "Networks/attachments/Pasted image 20260913092941.png",
+    "Networks/attachments/Pasted image 20260912193915.png",
+    "Excalidraw/Drawing 2026-09-12 20.12.10.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 20.03.19.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 20.16.21.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 20.25.24.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 21.32.00.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 21.38.43.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 21.42.52.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 21.47.02.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 16.32.13.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 17.24.23.excalidraw.md",
+    "Excalidraw/Drawing 2026-09-12 17.37.31.excalidraw.md"
+  ]
+}
